@@ -1,0 +1,12 @@
+{
+	"name": "dev",
+	"description": "For Dev Env",
+	"json_class": "Chef:Role",
+	"chef_type": "role",
+	"cookbook_versions": {
+		"apacehe2": "= 0.1.0"
+	}
+	#"default_attributes" : {
+	# 	"var1": 30,
+	#}	
+}
